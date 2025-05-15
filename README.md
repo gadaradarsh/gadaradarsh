@@ -48,7 +48,10 @@
       <img src="https://assets-v2.lottiefiles.com/a/5ffe0a44-8d39-11ef-87c6-7b42f55da265/zGMEGHJuSM.png" width="60" height="60" alt="git" title="Git"/>
       <br>Git
     </td>
-    <td></td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" alt="springboot" title="Spring Boot"/>
+      <br>Spring Boot
+    </td>
     <td></td>
     <td></td>
   </tr>
